@@ -20,3 +20,4 @@ services:
       - 9200:9200
     networks:
       - elastic
+      
